@@ -1,0 +1,8 @@
+{
+  "name": "NutriScan",
+  "description": "On-device OCR and Gemini Flash powered Nutrition and Halal Ingredient Scanner for packaged foods.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
